@@ -6,8 +6,12 @@
 **Email:** cemalihsan@gmail.com 
 
 ## Project Name
-![](img/finalproject.png)
+Description of your project.
+
+## Requirements
+
 ---
 
 ### Certification
+![](img/python-certificate.png)
 
