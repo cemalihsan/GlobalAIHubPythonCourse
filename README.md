@@ -13,5 +13,5 @@ Description of your project.
 ---
 
 ### Certification
-![](img/python-certificate.png)
+![](img/Python-certificate.png)
 
